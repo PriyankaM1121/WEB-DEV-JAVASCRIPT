@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 2rem;
+}
+
+.seagreen {
+  background-color: #15bab3;
+}
+
+.yellow {
+  background-color: #fff001;
+}
+
+.seadarkgreen {
+  background-color: #294842;
+}
+
+.grey {
+  background-color: #141213;
+}
+
+.flash {
+  background-color: white;
+}
+
+.userflash {
+  background-color: green;
+}
